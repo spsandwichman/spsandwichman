@@ -1,4 +1,4 @@
-### yo yo yo
+### yo!
 
 hey, i'm technichron. i like low-level programming, computer/processor architecture, and compilers. my big project at the moment is [**aphelion**](https://github.com/orbit-systems/aphelion), a 64-bit instruction set architecture. 
 
