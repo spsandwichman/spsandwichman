@@ -6,4 +6,4 @@ i'm the lead developer of [orbit systems](https://github.com/orbit-systems), a d
 
 i also create digital art and graphic design as **technichron** over at [technichronart.com](https://www.technichronart.com/).
 
-you can contact me at `sethpoulsen (at) gmail.com`.
+you can contact me at `sethpoulsen(at)gmail.com`.
