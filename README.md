@@ -7,4 +7,5 @@ right now, i'm working on [mars and coyote](https://github.com/spsandwichman/mar
 i'm the lead developer of [orbit systems](https://github.com/orbit-systems), a developer group focused on learning through doing. we work on the [aphelion cpu architecture](https://github.com/orbit-systems/aphelion) and projects that surround and support it.
 
 none of my projects contain ai-generated content. i do not accept contributions that contain ai-generated content. 
-[https://claytonwramsey.com/blog/prompt/]
+
+https://claytonwramsey.com/blog/prompt/
